@@ -1,0 +1,385 @@
+body{
+    margin: 0;
+    font-family: apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,"Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol,"Noto Color Emoji";;
+}
+.container{
+    height:100%;
+    width: 100%;
+}
+#p1{
+    color:white;
+    }
+.header1{
+    padding-top: 11px;
+    background-color:black;
+    height: 52px;
+    width: 100%;
+    text-align: center;
+
+}
+.hed{
+    font-size: 38px;
+    height: 9px;;
+}
+.header2{
+    background-color:white;
+    height: 103px;
+    box-shadow: 0 1px 12px #ababab;
+    width:100%; 
+}
+.header input{
+    margin-top:33;
+}
+.search{
+    margin-bottom: 22px;
+    float: left;
+}
+.imageboat{
+   margin-left :55px;;
+    padding-top: 33px;
+    width: 84px;
+}
+.imgicon{
+    float: left;
+    margin-top: -80px;
+    margin-left: 1211px;
+}
+.header2 ul{
+    margin-top: -41px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 253px;
+    text-decoration: none;
+    font-size: 21px;
+    font-weight: 500;
+    word-spacing: 20px;
+    margin-left: -76px;
+}
+
+.header2 ul li{
+    list-style:none ;
+    padding-left: 25px;
+    margin-top: 10px;
+}
+.header2 input{
+    width: 346px;
+    height: 35px;
+    margin-left: 800px;
+    margin-top: -82px;
+    float: left;
+    border-radius: 62px;
+    background-color: #e7e2e2;
+    border: 0ch
+}
+
+.header1 img{
+    float: left;
+}
+.header3{
+    
+        padding-top: 11px;
+        width: 100%;
+        height: 9px;
+        margin-top: -57px;
+        text-align: center;
+       
+    }
+.imgfull{
+        background-color:white;
+        height:536px;
+        width:100%;
+        padding-top: -38px;
+        margin-top:-28px;
+    }
+.img1 {
+    background-color: white;
+    height: 18%;
+    width: 19%;
+    float: left;
+    margin: 23px;
+    margin-bottom: 46px;
+    margin-left: 57px;
+}
+  
+
+ img{
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+}
+h1{
+    font-size: 65px;
+    font-weight: 350;
+    font-style: Sans-serif;
+  
+}
+h3{
+
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        font: size 23px;
+        font-weight:550;
+        letter-spacing:2px;
+}
+.img2 {
+    background-color:white;
+    height: 25%;
+    width: 17%;  
+    float: left;
+    margin: 18px;
+    margin-bottom: 35px;
+    margin-left :185px;  
+}
+.foot1{
+    height: 62px;
+    width: 100%;
+    background-color: black;
+    padding-top: 6px;
+    margin-top: 693px
+}
+.p1{
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    margin:5px;
+}
+.container2{
+   height: 640px;
+   width: 100%;
+}
+.footer2{
+    height: 600px;
+    width: 93%;
+    float: left;
+    margin-left: 56px;
+    display: inline;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+ 
+.left{
+    height: 530px;
+    width:25%;
+    float: left;
+    margin-top: 41px;
+
+}
+.left input{
+    margin-top: 28px;
+    width: 319px;
+    height: 42px;
+    margin-left: -33px;
+    border-radius: 11px;
+}
+.send{
+    width: 97px;
+    height: 27px;
+    background-color: red;
+    margin-left: 176px;
+    margin-top: -32px;
+}
+.left img{
+    float: left;
+    margin-left: -27px
+}
+.left p{
+    float: left;
+    font-size: 18px;
+    margin-top: 50px;
+    margin-left: -34px;
+    color: #ababab;
+}
+.mid{
+    height: 530px;
+    width:22%;
+    float: left;
+
+}
+.p5{
+    float: left;
+    text-align: left;
+}
+.mid p{
+    font-style: normal;
+    float:left ;
+    font-size: 22px;
+}
+.one{
+    float: left;
+    list-style: none;
+    margin-top: 70px;
+    margin-left: -98px;
+    font-size: 15px; 
+    align-items:lef;
+    margin-right: 27px; 
+    color: rgb(27, 26, 26);
+    
+}
+.two{
+    font: size 15px;
+    list-style:none;
+    margin-top: 70px;
+}
+li{
+    margin-bottom: 25px;
+    text-align: left;
+}
+.right{
+    height: 530px;
+    
+    width:22%;
+    float: left; 
+}
+.right p{
+    font-style: normal;
+    float:left ;
+    font-size: 22px;
+    align:left;
+}
+.right li{
+    text-align: left;
+}
+.last{
+    height: 530px;
+    width:18%;
+    float: left; 
+}
+.last p{
+    font-style: normal;
+    float:left ;
+    font-size: 22px;
+    text-align:right;
+}
+.last li{
+    text-align:left;
+    color: #000;
+}
+.tree{
+    list-style: none;
+    margin-top: 70px;
+}
+.footer3{
+    height:60px;
+    width:100%;
+    background-color:#ababab;
+    padding-top: 5px;
+    float: left;
+}
+.border{
+    height: 58px;
+    width: 100%;
+    background-color: black;
+    padding-top: 5px;
+    float: left;
+    margin-top: -4px 
+
+
+}
+.facebook{
+    height: 47px;
+    width: 47px;
+    margin-left: 145px;
+    background-color: #000000;
+    margin-top: 5px;
+    float: left;
+}
+.twitter{
+    height: 47px;
+    width: 54px;
+    margin-left: 55px;
+    background-color: #000000;
+    margin-top: 5px;
+    float: left;  
+}
+.insta{
+    height: 46px;
+    width: 46px;
+    margin-left: 55px;
+    background-color: #000000;
+    margin-top: 5px;
+    float: left;
+    border-radius: 47px;
+}
+.youtube{
+    height: 45px;
+    width: 66px;
+    margin-left: 55px;
+    background-color: #000000;
+    margin-top: 5px;
+    float: left;
+    border-radius: 11px;
+}
+.lnikedin{
+    height: 47px;
+    width: 47px;
+    margin-left: 55px;
+    background-color: #000000;
+    margin-top: 5px;
+    float: left;
+}
+.footer4{
+    height: 140px;
+    width: 100%;
+    margin-top: 1px;
+    padding-top: 4px;
+    display: flex;
+    float: left
+
+}
+.download{
+    height: 100px;
+    width: 50%;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.download img{
+    float: left;
+    margin-top: 46px
+}
+.download a{
+    font-size: large;
+    font-weight: 700;
+    padding-left: -38px;
+    margin-left: -301px;
+}
+.payment{
+    height: 100px;
+    width: 31%;
+    margin-top: 15px;
+    margin-left: 224px;
+}
+.payment a{
+    margin-left: 1px;
+}
+.payment img{
+    margin-left: 1px;
+    margin-top: 25px;
+}
+.footer5{
+    height: 140px;
+    width: 100%;
+    background-color:#ababab;
+    margin-top: 1px;
+    padding-top: 4px;
+    display: flex;
+    float: left 
+}
+.border2{
+    height: 140px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    margin-top: -3px;
+    padding-top: 20px;
+    display: flex;
+    float: left;
+    padding-left: 100px;
+}
+.fb{
+    height: 25px;
+    margin-top: 10px;
+}
